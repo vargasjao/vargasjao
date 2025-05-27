@@ -126,3 +126,9 @@ Feel free to check on my studying projects!
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargasjao&theme=merko&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vargasjao/vargasjao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vargasjao/vargasjao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vargasjao/vargasjao/output/github-contribution-grid-snake.svg">
+</picture>
