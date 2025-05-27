@@ -120,7 +120,7 @@ Feel free to check on my studying projects!
   />
 
 <img 
-   align="right" 
+   align="left" 
    alt="GitHub Stats" 
    height="200" 
    style="padding-right: 10px;"
