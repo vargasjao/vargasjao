@@ -115,7 +115,6 @@ Feel free to check on my studying projects!
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Vargasjao&show_icons=true&theme=merko&include_all_commits=true&locale=en" 
   />
 
