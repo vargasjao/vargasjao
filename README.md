@@ -120,7 +120,7 @@ Feel free to check on my studying projects!
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargasjao&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
