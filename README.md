@@ -114,15 +114,14 @@ Feel free to check on my studying projects!
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    padding="0px"
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Vargasjao&show_icons=true&theme=merko&include_all_commits=true&locale=en" 
   />
 
 <img 
    align="left" 
    alt="GitHub Stats" 
-   height="200" 
+   height="180em" 
    style="padding-right: 10px;"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargasjao&theme=merko&layout=compact&custom_title=Languages&langs_count=9" 
   />
