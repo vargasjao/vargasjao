@@ -111,7 +111,6 @@ Feel free to check on my studying projects!
 
 ### 📊 Stats
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -126,4 +125,3 @@ Feel free to check on my studying projects!
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargasjao&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
-</p>
