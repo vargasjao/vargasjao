@@ -132,3 +132,8 @@ Feel free to check on my studying projects!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vargasjao/vargasjao/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vargasjao/vargasjao/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+<br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lyuu6tlv6ofn7navsnsii4k76&count=5&width=1000)
