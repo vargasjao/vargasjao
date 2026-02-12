@@ -2,8 +2,7 @@
 
 **`Software Developer`**
 
-Currently working on Development and Research at Act Tecnologia, persuing degree on System Development and Analysis at Uniguairacá.
-Feel free to check on my studying projects!
+Nível superior Tecnólogo em Análise e desenvolvimento de sistemas - Pesquisa e Desenvolvimento Act Tecnologia
 
 ---
 
@@ -136,4 +135,3 @@ Feel free to check on my studying projects!
 <br>
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lyuu6tlv6ofn7navsnsii4k76&count=5&width=1000)
